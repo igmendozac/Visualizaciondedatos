@@ -1,0 +1,16 @@
+Antes de comenzar, debes haber revisado las clases y tutoriales de los módulos 2 y 3 del curso.
+
+Descarga el dataset de nombre,  Winequality_red_Tarea3.csv, que incluye  mediciones a vinos, 
+donde cada columna es una medición al vino y existe una columna de "calidad", la cual no debe ser
+incluida en la reducción de dimensionalidad, pero sí para generar los gráficos.
+
+Para esta actividad deberás, en primer lugar, escoger de algún modo los 5 pares de columnas 
+que mejor separan a los vinos de mejor calidad de los de peor calidad. Un vino se dirá de buena 
+calidad si su "quality" es mayor a 5. En esta sección se espera también que expliques tus elecciones 
+y muestres por lo menos dos ejemplos de pares de columnas que no separen bien los datos.
+
+Luego de esto, deberás usar los métodos de reducción de dimensionalidad lineal y no lineal 
+conocidos para reducir la cantidad de columnas para poder visualizar los datos. Esperamos que para 
+cada uno de estos métodos muestres la separación entre calidades (cada calidad por separado) y la 
+separación entre vinos buenos y malos. Esperamos también que explique sus resultados y te explayes
+con detalle sobre la significancia de sus resultados.
